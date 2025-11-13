@@ -1,0 +1,783 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "amirmahdi",
+      "fullname": "امیرمهدی قدیری",
+      "phone": "09199891684",
+      "email": "amirmahdi@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": 4,
+      "username": "amirmahdi",
+      "fullname": "امیرمهدی قدیری",
+      "phone": "09192799059",
+      "email": "amirmahdi@gmail.com",
+      "password": "1234567890"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 55000000,
+      "dicountPercent": 70,
+      "score": 5,
+      "sameDayDelivery": true,
+      "src": "/images/products/3.png",
+      "hoverSrc": "/images/products/4.png",
+      "created_AT": "1404/02/12",
+      "category": "laptop",
+      "available": true,
+      "sellCount": 4,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 77000000,
+      "dicountPercent": 70,
+      "score": 5,
+      "sameDayDelivery": true,
+      "src": "/images/products/5.webp",
+      "hoverSrc": "/images/products/6.webp",
+      "created_AT": "1404/02/12",
+      "category": "laptop",
+      "available": true,
+      "sellCount": 1,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 80000000,
+      "dicountPercent": 70,
+      "score": 4.9,
+      "sameDayDelivery": false,
+      "src": "/images/products/1.png",
+      "hoverSrc": "/images/products/2.png",
+      "created_AT": "1404/04/12",
+      "category": "laptop",
+      "available": true,
+      "sellCount": 3,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 39000000,
+      "dicountPercent": 70,
+      "score": 4.5,
+      "sameDayDelivery": false,
+      "src": "/images/products/7.webp",
+      "hoverSrc": "/images/products/8.webp",
+      "created_AT": "1404/06/16",
+      "category": "laptop",
+      "available": false,
+      "sellCount": 2,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 13000000,
+      "dicountPercent": 70,
+      "score": 4,
+      "sameDayDelivery": true,
+      "src": "/images/products/3.png",
+      "hoverSrc": "/images/products/4.png",
+      "created_AT": "1404/05/16",
+      "category": "laptop",
+      "available": true,
+      "sellCount": 30,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 24000000,
+      "dicountPercent": 70,
+      "score": 5,
+      "sameDayDelivery": true,
+      "src": "/images/products/5.webp",
+      "hoverSrc": "/images/products/6.webp",
+      "created_AT": "1404/02/05",
+      "category": "laptop",
+      "available": true,
+      "sellCount": 10,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 99000000,
+      "dicountPercent": 70,
+      "score": 2,
+      "sameDayDelivery": false,
+      "src": "/images/products/1.png",
+      "hoverSrc": "/images/products/2.png",
+      "created_AT": "1404/03/23",
+      "category": "laptop",
+      "available": true,
+      "sellCount": 6,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook15 X515MA-BR001-Celeron N4020-8GB DDR4",
+      "price": 89000000,
+      "dicountPercent": 70,
+      "score": 3.5,
+      "sameDayDelivery": false,
+      "src": "/images/products/7.webp",
+      "hoverSrc": "/images/products/8.webp",
+      "created_AT": "1404/02/15",
+      "category": "laptop",
+      "available": false,
+      "sellCount": 5,
+      "feature": [
+        {
+          "id": 1,
+          "question": "فناوری صفحه نمایش",
+          "value": "LTPO Super Retina XDR"
+        },
+        {
+          "id": 2,
+          "question": "نسخه سیستم عامل",
+          "value": "iOS 18"
+        },
+        {
+          "id": 3,
+          "question": "رزولوشن دوربین اصلی",
+          "value": "48 مگاپیکسل"
+        },
+        {
+          "id": 4,
+          "question": "اندازه",
+          "value": "6.1"
+        },
+        {
+          "id": 5,
+          "question": "باتری",
+          "value": "باتری ۳۵۰۰ میلی آمپر با شارژ سریع"
+        },
+        {
+          "id": 6,
+          "question": "نمایشگر",
+          "value": "6.3 اینچ LTPO OLED، 120Hz"
+        },
+        {
+          "id": 7,
+          "question": "چیپست",
+          "value": "Apple A18 Pro"
+        },
+        {
+          "id": 8,
+          "question": "دوربین",
+          "value": "چهارگانه: 48 + 12 + 12 + TOF 3D"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "مشکی",
+          "colorCode": "#000000"
+        },
+        {
+          "id": 2,
+          "name": "سفید",
+          "colorCode": "#FFFFFF"
+        },
+        {
+          "id": 3,
+          "name": "سبز",
+          "colorCode": "#4ade80"
+        },
+        {
+          "id": 4,
+          "name": "آبی",
+          "colorCode": "#3b82f6"
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "userId": 1,
+      "productId": 3,
+      "quantity": 1,
+      "colorCode": "#3b82f6",
+      "colorName": "آبی",
+      "warranty": "گارانتی 18 ماهه",
+      "deliveryTime": "ارسال 1 روز کاری"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "productId": 5,
+      "quantity": 1,
+      "colorCode": "#3b82f6",
+      "colorName": "آبی",
+      "warranty": "گارانتی 18 ماهه",
+      "deliveryTime": "ارسال 1 روز کاری"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "productId": 5,
+      "userId": 1,
+      "title": "بهترین گوشی",
+      "reaction": "like",
+      "content": "کیفیتش خیلی خوبه، مخصوصاً دوربینش عالیه!",
+      "createdAt": "2025-11-05T19:00:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 2,
+      "productId": 5,
+      "userId": 2,
+      "title": "قیمت بالاست",
+      "reaction": "dislike",
+      "content": "عملکردش خوبه ولی نسبت به قیمتش نمی‌ارزه.",
+      "createdAt": "2025-11-06T11:15:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 3,
+      "productId": 5,
+      "userId": 3,
+      "title": "راضی‌ام",
+      "reaction": "like",
+      "content": "من چند ماهه دارمش، هیچ مشکلی نداشته تا الان.",
+      "createdAt": "2025-11-06T15:40:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 4,
+      "productId": 5,
+      "userId": 4,
+      "title": "باطری ضعیف",
+      "reaction": "dislike",
+      "content": "تنها مشکلش باطریه که زود خالی میشه.",
+      "createdAt": "2025-11-07T09:10:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "userId": 5,
+      "title": "طراحی زیبا",
+      "reaction": "like",
+      "content": "ظاهرش خیلی شیکه، حس گوشی پرچمدار میده.",
+      "createdAt": "2025-11-07T18:25:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 6,
+      "productId": 5,
+      "userId": 6,
+      "title": "هنگ می‌کنه",
+      "reaction": "dislike",
+      "content": "تو اجرای بازی‌ها کمی کند میشه، مخصوصاً بعد از چند دقیقه.",
+      "createdAt": "2025-11-08T10:45:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 7,
+      "productId": 5,
+      "userId": 7,
+      "title": "دوربین فوق‌العاده",
+      "reaction": "like",
+      "content": "واقعا کیفیت عکس‌هاش فراتر از انتظاره!",
+      "createdAt": "2025-11-08T22:10:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 8,
+      "productId": 5,
+      "userId": 8,
+      "title": "خوش‌دست و سبک",
+      "reaction": "like",
+      "content": "نسبت به اندازه صفحه خیلی سبک و خوش‌دسته.",
+      "createdAt": "2025-11-09T12:30:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 9,
+      "productId": 5,
+      "userId": 9,
+      "title": "مشکل تاچ",
+      "reaction": "dislike",
+      "content": "گاهی اوقات تاچ درست کار نمی‌کنه، مخصوصاً در لبه‌ها.",
+      "createdAt": "2025-11-09T19:55:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    },
+    {
+      "id": 10,
+      "productId": 5,
+      "userId": 10,
+      "title": "خرید پیشنهادی",
+      "reaction": "like",
+      "content": "در کل گوشی خوبیه، مخصوصاً برای استفاده روزمره.",
+      "createdAt": "2025-11-10T08:20:00Z",
+      "likes": [2,1,5],
+      "dislikes": [4,3]
+    }
+  ]
+
+
+}
