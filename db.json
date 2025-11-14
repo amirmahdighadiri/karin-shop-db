@@ -665,7 +665,6 @@
       "deliveryTime": "ارسال 1 روز کاری"
     }
   ],
-
   "comments": [
     {
       "id": 1,
@@ -675,8 +674,15 @@
       "reaction": "like",
       "content": "کیفیتش خیلی خوبه، مخصوصاً دوربینش عالیه!",
       "createdAt": "2025-11-05T19:00:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 2,
@@ -686,8 +692,15 @@
       "reaction": "dislike",
       "content": "عملکردش خوبه ولی نسبت به قیمتش نمی‌ارزه.",
       "createdAt": "2025-11-06T11:15:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 3,
@@ -697,8 +710,15 @@
       "reaction": "like",
       "content": "من چند ماهه دارمش، هیچ مشکلی نداشته تا الان.",
       "createdAt": "2025-11-06T15:40:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 4,
@@ -708,8 +728,15 @@
       "reaction": "dislike",
       "content": "تنها مشکلش باطریه که زود خالی میشه.",
       "createdAt": "2025-11-07T09:10:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 5,
@@ -719,8 +746,15 @@
       "reaction": "like",
       "content": "ظاهرش خیلی شیکه، حس گوشی پرچمدار میده.",
       "createdAt": "2025-11-07T18:25:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 6,
@@ -730,8 +764,15 @@
       "reaction": "dislike",
       "content": "تو اجرای بازی‌ها کمی کند میشه، مخصوصاً بعد از چند دقیقه.",
       "createdAt": "2025-11-08T10:45:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 7,
@@ -741,8 +782,15 @@
       "reaction": "like",
       "content": "واقعا کیفیت عکس‌هاش فراتر از انتظاره!",
       "createdAt": "2025-11-08T22:10:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 8,
@@ -752,8 +800,15 @@
       "reaction": "like",
       "content": "نسبت به اندازه صفحه خیلی سبک و خوش‌دسته.",
       "createdAt": "2025-11-09T12:30:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 9,
@@ -763,8 +818,15 @@
       "reaction": "dislike",
       "content": "گاهی اوقات تاچ درست کار نمی‌کنه، مخصوصاً در لبه‌ها.",
       "createdAt": "2025-11-09T19:55:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     },
     {
       "id": 10,
@@ -774,10 +836,52 @@
       "reaction": "like",
       "content": "در کل گوشی خوبیه، مخصوصاً برای استفاده روزمره.",
       "createdAt": "2025-11-10T08:20:00Z",
-      "likes": [2,1,5],
-      "dislikes": [4,3]
+      "likes": [
+        2,
+        1,
+        5
+      ],
+      "dislikes": [
+        4,
+        3
+      ]
     }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "موبایل",
+      "src": "/images/banner/5.png"
+    },
+    {
+      "id": 2,
+      "title": "کالای دیجیتال",
+      "src": "/images/banner/6.png"
+    },
+    {
+      "id": 3,
+      "title": "خانه و آشپزخانه",
+      "src": "/images/banner/7.png"
+    },
+    {
+      "id": 4,
+      "title": "آرایشی بهداشتی",
+      "src": "/images/banner/8.png"
+    },
+    {
+      "id": 5,
+      "title": "لوازم تحریر",
+      "src": "/images/banner/9.png"
+    },
+    {
+      "id": 6,
+      "title": "گیفت کارت",
+      "src": "/images/banner/10.png"
+    },
+    {
+      "id": 7,
+      "title": "ابزار آلات",
+      "src": "/images/banner/11.png"
+    },
   ]
-
-
 }
