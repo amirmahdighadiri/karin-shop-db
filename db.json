@@ -671,7 +671,6 @@
       "productId": 5,
       "userId": 1,
       "title": "بهترین گوشی",
-      "reaction": "like",
       "content": "کیفیتش خیلی خوبه، مخصوصاً دوربینش عالیه!",
       "createdAt": "2025-11-05T19:00:00Z",
       "likes": [
@@ -687,9 +686,8 @@
     {
       "id": 2,
       "productId": 5,
-      "userId": 2,
+      "userId": 1,
       "title": "قیمت بالاست",
-      "reaction": "dislike",
       "content": "عملکردش خوبه ولی نسبت به قیمتش نمی‌ارزه.",
       "createdAt": "2025-11-06T11:15:00Z",
       "likes": [
@@ -705,9 +703,8 @@
     {
       "id": 3,
       "productId": 5,
-      "userId": 3,
+      "userId": 1,
       "title": "راضی‌ام",
-      "reaction": "like",
       "content": "من چند ماهه دارمش، هیچ مشکلی نداشته تا الان.",
       "createdAt": "2025-11-06T15:40:00Z",
       "likes": [
@@ -723,9 +720,8 @@
     {
       "id": 4,
       "productId": 5,
-      "userId": 4,
+      "userId": 1,
       "title": "باطری ضعیف",
-      "reaction": "dislike",
       "content": "تنها مشکلش باطریه که زود خالی میشه.",
       "createdAt": "2025-11-07T09:10:00Z",
       "likes": [
@@ -741,9 +737,9 @@
     {
       "id": 5,
       "productId": 5,
-      "userId": 5,
+      "userId": 1,
       "title": "طراحی زیبا",
-      "reaction": "like",
+
       "content": "ظاهرش خیلی شیکه، حس گوشی پرچمدار میده.",
       "createdAt": "2025-11-07T18:25:00Z",
       "likes": [
@@ -759,9 +755,8 @@
     {
       "id": 6,
       "productId": 5,
-      "userId": 6,
+      "userId": 1,
       "title": "هنگ می‌کنه",
-      "reaction": "dislike",
       "content": "تو اجرای بازی‌ها کمی کند میشه، مخصوصاً بعد از چند دقیقه.",
       "createdAt": "2025-11-08T10:45:00Z",
       "likes": [
@@ -777,9 +772,8 @@
     {
       "id": 7,
       "productId": 5,
-      "userId": 7,
+      "userId": 1,
       "title": "دوربین فوق‌العاده",
-      "reaction": "like",
       "content": "واقعا کیفیت عکس‌هاش فراتر از انتظاره!",
       "createdAt": "2025-11-08T22:10:00Z",
       "likes": [
@@ -795,9 +789,8 @@
     {
       "id": 8,
       "productId": 5,
-      "userId": 8,
+      "userId": 1,
       "title": "خوش‌دست و سبک",
-      "reaction": "like",
       "content": "نسبت به اندازه صفحه خیلی سبک و خوش‌دسته.",
       "createdAt": "2025-11-09T12:30:00Z",
       "likes": [
@@ -813,9 +806,8 @@
     {
       "id": 9,
       "productId": 5,
-      "userId": 9,
+      "userId": 1,
       "title": "مشکل تاچ",
-      "reaction": "dislike",
       "content": "گاهی اوقات تاچ درست کار نمی‌کنه، مخصوصاً در لبه‌ها.",
       "createdAt": "2025-11-09T19:55:00Z",
       "likes": [
@@ -831,9 +823,8 @@
     {
       "id": 10,
       "productId": 5,
-      "userId": 10,
+      "userId": 1,
       "title": "خرید پیشنهادی",
-      "reaction": "like",
       "content": "در کل گوشی خوبیه، مخصوصاً برای استفاده روزمره.",
       "createdAt": "2025-11-10T08:20:00Z",
       "likes": [
