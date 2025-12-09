@@ -6,7 +6,8 @@
       "fullname": "امیرمهدی قدیری",
       "phone": "09199891684",
       "email": "amirmahdi@gmail.com",
-      "password": "1234567890"
+      "password": "1234567890",
+      "birthday": "1384/5/16"
     },
     {
       "id": 4,
@@ -14,7 +15,8 @@
       "fullname": "امیرمهدی قدیری",
       "phone": "09192799059",
       "email": "amirmahdi@gmail.com",
-      "password": "1234567890"
+      "password": "1234567890",
+      "birthday": "1384/5/16"
     }
   ],
   "products": [
