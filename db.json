@@ -898,5 +898,12 @@
       "question": "مدت زمان ارسال سفارش چقدر است؟",
       "answer": "سفارش‌های ثبت‌شده بین ۱ الی ۳ روز کاری پردازش و ارسال می‌شوند. زمان دقیق تحویل بسته بسته به شهر مقصد و نوع ارسال متفاوت است، اما معمولاً بین ۲ تا ۵ روز کاری طول می‌کشد."
     }
-  ]
+  ],
+  "userFields" : [
+    {"id":1 , "inputId" : "fullname" , "lable":"نام و نام خانوادگی" , "inputType" : "text" , "inputIcon" : "pencilSquare"},
+    {"id":2 , "inputId" : "phone" , "lable":"شماره موبایل" , "inputType" : "text" , "inputIcon" : "pencilSquare"},
+    {"id":3 , "inputId" : "email" , "lable":"ایمیل" , "inputType" : "text" , "inputIcon" : "plus"},
+    {"id":4 , "inputId" : "password" , "lable":"رمز عبور" , "inputType" : "password" , "inputIcon" : "pencilSquare"},
+    {"id":5 , "inputId" : "birthday" , "lable":"تاریخ تولد" , "inputType" : "text" , "inputIcon" : "pencilSquare"}
+]
 }
