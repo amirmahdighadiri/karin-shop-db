@@ -741,7 +741,6 @@
       "productId": 5,
       "userId": 1,
       "title": "طراحی زیبا",
-
       "content": "ظاهرش خیلی شیکه، حس گوشی پرچمدار میده.",
       "createdAt": "2025-11-07T18:25:00Z",
       "likes": [
@@ -877,7 +876,7 @@
       "src": "/images/banner/11.png"
     }
   ],
-   "faq": [
+  "faq": [
     {
       "id": 1,
       "question": "چگونه می‌توانم سفارش‌ام را پیگیری کنم؟",
@@ -899,11 +898,99 @@
       "answer": "سفارش‌های ثبت‌شده بین ۱ الی ۳ روز کاری پردازش و ارسال می‌شوند. زمان دقیق تحویل بسته بسته به شهر مقصد و نوع ارسال متفاوت است، اما معمولاً بین ۲ تا ۵ روز کاری طول می‌کشد."
     }
   ],
-  "userFields" : [
-    {"id":1 , "inputId" : "fullname" , "lable":"نام و نام خانوادگی" , "inputType" : "text" , "inputIcon" : "pencilSquare"},
-    {"id":2 , "inputId" : "phone" , "lable":"شماره موبایل" , "inputType" : "text" , "inputIcon" : "pencilSquare"},
-    {"id":3 , "inputId" : "email" , "lable":"ایمیل" , "inputType" : "text" , "inputIcon" : "plus"},
-    {"id":4 , "inputId" : "password" , "lable":"رمز عبور" , "inputType" : "password" , "inputIcon" : "pencilSquare"},
-    {"id":5 , "inputId" : "birthday" , "lable":"تاریخ تولد" , "inputType" : "text" , "inputIcon" : "pencilSquare"}
+  "userFields": [
+    {
+      "id": 1,
+      "inputId": "fullname",
+      "lable": "نام و نام خانوادگی",
+      "inputType": "text",
+      "inputIcon": "pencilSquare"
+    },
+    {
+      "id": 2,
+      "inputId": "phone",
+      "lable": "شماره موبایل",
+      "inputType": "text",
+      "inputIcon": "pencilSquare"
+    },
+    {
+      "id": 3,
+      "inputId": "email",
+      "lable": "ایمیل",
+      "inputType": "text",
+      "inputIcon": "plus"
+    },
+    {
+      "id": 4,
+      "inputId": "password",
+      "lable": "رمز عبور",
+      "inputType": "password",
+      "inputIcon": "pencilSquare"
+    },
+    {
+      "id": 5,
+      "inputId": "birthday",
+      "lable": "تاریخ تولد",
+      "inputType": "text",
+      "inputIcon": "pencilSquare"
+    }
+  ],
+  "articles" : [
+    {
+        "id": 1,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/1.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 2,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/2.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 3,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/3.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 4,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/4.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 5,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/1.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 6,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/2.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 7,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/3.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    },
+    {
+        "id": 8,
+        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
+        "src": "/images/articles/4.webp",
+        "viweCount": "120",
+        "createAT": "1403/5/1"
+    }
 ]
 }
