@@ -935,62 +935,71 @@
       "inputIcon": "pencilSquare"
     }
   ],
-  "articles" : [
-    {
-        "id": 1,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/1.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 2,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/2.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 3,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/3.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 4,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/4.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 5,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/1.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 6,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/2.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 7,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/3.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    },
-    {
-        "id": 8,
-        "title": "بهترین لپ تاپ های بازار ایران [دی ۱۴۰۳]",
-        "src": "/images/articles/4.webp",
-        "viweCount": "120",
-        "createAT": "1403/5/1"
-    }
+  "articles": [
+  {
+    "id": 1,
+    "title": "راهنمای خرید بهترین لپ‌تاپ‌های بازار ایران",
+    "src": "/images/articles/1.webp",
+    "viewCount": 342,
+    "createdAt": 14040512,
+    "category": "article"
+  },
+  {
+    "id": 2,
+    "title": "افزایش قیمت لپ‌تاپ‌ها در بازار ایران",
+    "src": "/images/articles/2.webp",
+    "viewCount": 785,
+    "createdAt": 14030701,
+    "category": "news"
+  },
+  {
+    "id": 3,
+    "title": "بهترین لپ‌تاپ‌ها برای برنامه‌نویسی در سال ۱۴۰۳",
+    "src": "/images/articles/3.webp",
+    "viewCount": 421,
+    "createdAt": 14030114,
+    "category": "article"
+  },
+  {
+    "id": 4,
+    "title": "معرفی جدیدترین لپ‌تاپ‌های گیمینگ ۲۰۲۵",
+    "src": "/images/articles/4.webp",
+    "viewCount": 689,
+    "createdAt": 14040913,
+    "category": "news"
+  },
+  {
+    "id": 5,
+    "title": "چطور لپ‌تاپ مناسب کارهای گرافیکی انتخاب کنیم؟",
+    "src": "/images/articles/1.webp",
+    "viewCount": 256,
+    "createdAt": 14031201,
+    "category": "article"
+  },
+  {
+    "id": 6,
+    "title": "بهترین لپ‌تاپ‌های سبک برای استفاده روزمره",
+    "src": "/images/articles/2.webp",
+    "viewCount": 198,
+    "createdAt": 14030519,
+    "category": "article"
+  },
+  {
+    "id": 7,
+    "title": "عرضه رسمی نسل جدید پردازنده‌های لپ‌تاپ",
+    "src": "/images/articles/3.webp",
+    "viewCount": 512,
+    "createdAt": 14040422,
+    "category": "news"
+  },
+  {
+    "id": 8,
+    "title": "مقایسه لپ‌تاپ‌های میان‌رده محبوب بازار ایران",
+    "src": "/images/articles/4.webp",
+    "viewCount": 174,
+    "createdAt": 14030501,
+    "category": "article"
+  }
 ]
+
 }
